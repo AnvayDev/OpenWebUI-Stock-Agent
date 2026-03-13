@@ -13,4 +13,5 @@ REMEMBER TO EDIT THE LOCATION PARAMETER FOR THE DATABASE BEFORE CALLING THE TOOL
 If using Docker (Reccomended)
 To use the database RAG (required for operation) just edit the parameter for where the DB is stored and
 adjust it to the location of the Database in your Docker instance/wherever the file is stored.
+
 If not using Docker (Not Reccomended): Use Docker.
